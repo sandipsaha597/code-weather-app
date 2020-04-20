@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.container {
+	margin: auto;
+	max-width: 900px;
+	width: 96%;
+}
+
+.form {
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
+}
